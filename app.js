@@ -15,4 +15,4 @@ for (const slide of slides) {
     })
 }
 
-let differences = '))'
+let newFi = 'asd'
