@@ -14,3 +14,5 @@ for (const slide of slides) {
         slide.classList.add('active')
     })
 }
+
+let differences = '))'
