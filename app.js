@@ -16,3 +16,7 @@ for (const slide of slides) {
 }
 
 let newFi = 'asd'
+
+let newAPi = () => {
+    //some functional
+}
