@@ -14,9 +14,3 @@ for (const slide of slides) {
         slide.classList.add('active')
     })
 }
-
-let newFi = 'asd'
-
-let newAPi = () => {
-    //some functional
-}
